@@ -1,6 +1,6 @@
 <?php
 
-namespace Anax\RemServer;
+namespace Marcusgsta\RemServer;
 
 use \Anax\Configure\ConfigureInterface;
 use \Anax\Configure\ConfigureTrait;

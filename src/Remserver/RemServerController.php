@@ -1,6 +1,6 @@
 <?php
 
-namespace Anax\RemServer;
+namespace Marcusgsta\RemServer;
 
 use \Anax\DI\InjectionAwareInterface;
 use \Anax\DI\InjectionAwareTrait;
